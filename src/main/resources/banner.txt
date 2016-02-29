@@ -1,0 +1,2 @@
+1. Go to http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
+2. Create some ASCII art
